@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Nice1</title>
+<style>
+
+#title {
+text-align: center;
+font-size: 80px;
+}
+
+.links {
+font-size: 50px;
+position: absolute;
+top: 110px;
+}
+
+#line {
+width: 100%;
+height: 3px;
+top: 240px;
+position: absolute;
+}
+
+.text1 {
+width: 50%;
+font-size: 30px;
+z-index: 3;
+position: absolute;
+float: left;
+left: 25px;
+padding-top: 60px;
+}
+
+#RamI{
+width: 45%;
+height: 500px;
+top: 300px;
+left: 1000px;
+position: absolute;
+z-index: 2;
+padding-bottom: 100px;
+}
+
+</style>
+</head>
+<body>
+<h1 id="title">Navigation</h1>
+<p class="links" style="padding-left: 5px;"><a href=""><span id="ram">RAM</span></a> &emsp; <a href=""><span id="hdd">HDD</span></a> &emsp; <a href=""><span id="cpu">CPU</span></a> &emsp; 
+<a href=""><span id="graphics">Graphics Card</span></a> &emsp; <a href=""><span id="mother">Motherboard</span></a> &emsp; <a href=""><span id="laptop">Laptop</span></a></p>
+<img id="line" src="https://lh6.googleusercontent.com/1EbVMe8Je1aB5HFEA0FE5TQ4P5chXs-nBslkEwodBxXTCyjHt8Szu607OYY=w2400">
+
+<p class="text1">RAM stands for "Random Access Memory". The RAM acts as a short-term memory component. It stores data and machine codes. The most common RAM’s people buy are the DDR4, but for older systems they would buy DDR2 or DDR3. For video game space you would use VRAM which denotes the memory available to a graphics chip or built on to a graphics card. Some nice graphic cards utilize a unique form of RAM called High-Bandwidth-Memory. The RAM makes all electronic devices run correctly. It also allows data items to be read or written in almost the same amount of time irrespective. It is not designed to stay focus on one thing forever. It moves on as soon as it’s noticed. Any unsaved data will be deleted if you close a program without saving. Data from the RAM can be read from anywhere at nearly at the same speed. It is the most slowest component in a laptop.</p>
+<img id="RamI" alt="RAM" src="https://lh3.googleusercontent.com/inoZg61JoKpeRkeq0w0cdHAe0lWY4LVQKCzZu0ZFIRg-8ri2coCdNrzIDjc=w2400">
+
+</body>
+</html>
